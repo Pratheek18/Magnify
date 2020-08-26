@@ -1,0 +1,2 @@
+# Magnify
+Music Application
